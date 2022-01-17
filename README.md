@@ -1,5 +1,5 @@
 # Security Tool  On Google Colab
-รวมเครื่องมือที่ใช้สำหรับความปลอดภัยโดยใช้ผ่านทาง Google Colaboratory ได้
+รวมเครื่องมือที่ใช้สำหรับความปลอดภัยที่ใช้ผ่านทาง Google Colaboratory ได้
 
 <!-- [![image](https://colab.research.google.com/assets/colab-badge.svg)]() -->
 
