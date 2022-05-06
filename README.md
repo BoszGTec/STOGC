@@ -1,4 +1,6 @@
 # 🔧Security Tool  On Google Colab
+![GitHub repo size](https://img.shields.io/github/repo-size/BoszGTec/STOGC?color=f0f0f0&logo=Github&label=Repo%20size)
+
 รวมเครื่องมือที่ใช้สำหรับความปลอดภัยที่ใช้ผ่านทาง Google Colaboratory ได้
 
 <!-- [![image](https://colab.research.google.com/assets/colab-badge.svg)]() -->
